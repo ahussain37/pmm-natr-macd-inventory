@@ -1,4 +1,3 @@
-# pmm-natr-macd-inventory
 # 🧠 Pure Market-Making Strategy: NATR + MACD + Inventory Control
 
 This repository implements a lightweight, adaptive market-making bot that posts limit orders around the mid-price on a crypto market (e.g., ETH/USDT). The strategy leverages three key signals—**volatility, trend, and inventory levels**—to adjust spreads and order bias dynamically every 15 seconds.
