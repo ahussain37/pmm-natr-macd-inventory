@@ -76,24 +76,12 @@ The strategy integrates multiple layers of risk controls:
 
 ---
 
-## ✅ Bottom Line
+## ✅ Conclusion
 
 > A simple yet powerful pure market-making strategy built for fast-moving crypto markets.  
 > Focused on balanced, adaptive, and risk-aware quoting behavior.
 
 ---
 
-## 📂 Repository Structure
-
-```bash
-.
-├── strategy/
-│   ├── market_maker.py        # Core logic for quoting & signal integration
-│   ├── indicators.py          # NATR & MACD computation
-│   └── inventory.py           # Inventory adjustment logic
-├── config/
-│   └── params.yml             # Parameter tuning and runtime configs
-├── README.md
-└── requirements.txt
 
 
