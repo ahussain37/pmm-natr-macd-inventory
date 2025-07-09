@@ -1,6 +1,8 @@
 # pmm-natr-macd-inventory
 Pure market-making bot for ETH–USDT combining NATR, MACD trend skew, and inventory control.
-Overview
+
+Overview:
+
 In this project, I design and implement a pure market-making algorithm for the ETH–USDT pair using Hummingbot. Rather than static spreads, my bot continuously adapts its quoting behavior by blending three real-time signals:
 
 Volatility Sizing (NATR):
